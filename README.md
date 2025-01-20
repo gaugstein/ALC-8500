@@ -561,4 +561,3 @@ Send only 75 to getting firmware/serial.
 
 ![](./gfx/hterm.png)
 
-[ALC8500 Dialoge](./gfx/README.md)
